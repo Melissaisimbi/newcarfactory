@@ -8,8 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+the project is about producing new car for te market and to ensure ecofriendly environment 
 
 ## Background
 
